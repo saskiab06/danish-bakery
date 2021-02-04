@@ -259,6 +259,7 @@ p {
   padding: 10px;
   margin-top: 20px;
   border: 2px solid sandybrown;
+  border-radius: 20px;
   color: white;
   background: transparent;
   transition: all 0.3s;
