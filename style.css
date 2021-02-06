@@ -256,6 +256,7 @@ p {
 
 .contact__form > input[type="submit"] {
   width: 30%;
+  min-width: 200px;
   padding: 10px;
   margin-top: 20px;
   border: 2px solid sandybrown;
